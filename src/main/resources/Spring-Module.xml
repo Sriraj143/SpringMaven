@@ -5,6 +5,5 @@ http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
 
 	<bean id="helloBean" class="com.mkyong.common.HelloWorld">
 		<property name="name" value="Mkyong" />
-	</bean>
-	
+	</bean>	
 </beans>
